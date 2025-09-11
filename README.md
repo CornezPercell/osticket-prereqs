@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>/>
+<img [img]https://i.imgur.com/D0vmtYF.png[/img]
 </p>
 <p>
 After setting up a Microsoft Azure account, create a Windows 10 Virtual Machine with a minimum of 4 vCPUs.
