@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src=https://imgur.com/a/NqLfV5t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/NqLfV5t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After setting up a Microsoft Azure account, create a Windows 10 Virtual Machine with a minimum of 4 vCPUs.
