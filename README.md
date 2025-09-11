@@ -40,7 +40,7 @@ on the VM, be sure to store the username and password so that the correct inform
 <br />
 
 <p>
-<img src="https://github.com/CornezPercell/osticket-prereqs/blob/main/Screenshot%20(268).png" height="80%" width="80%">
+<img src="https://github.com/CornezPercell/osticket-prereqs/blob/main/Screenshot%20(268).png" height="40%" width="40%">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
