@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Have a Microsoft Azure Account.
+- Create Windows 10 Virtual Machine
+- Access VM with Remote Desktop
+- Download osTicket installation files
+- Get familiar with IIS (Internet Information Services)
 
 <h2>Installation Steps</h2>
 
