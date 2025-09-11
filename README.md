@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<img src="https://github.com/CornezPercell/osticket-prereqs/blob/bd5b3432d100f7272cebc926936f1f218d48d9cb/Screenshot%20(177).png">
+<img src="https://github.com/CornezPercell/osticket-prereqs/blob/bd5b3432d100f7272cebc926936f1f218d48d9cb/Screenshot%20(177).png" height="80%" width="80%">
 </p>
 <p>
 After setting up a Microsoft Azure account, create a Windows 10 Virtual Machine with a minimum of 4 vCPUs.
