@@ -52,3 +52,5 @@ After setting up the VM copy or make note of the public ip address as it will be
 After successfully logging into the VM, open the web browser and go to osticket.com. You will need to download the files to install OS ticket onto the VM.
   This picture shows all the files I used for this setup. You can access these files HERE.
 <br />
+After succesfully downloading and installing these compononents we are now ready to configure OS ticket so you can create your own ticketing system.
+For my guide to Post installation and configuration, click here.
