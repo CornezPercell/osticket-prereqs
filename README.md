@@ -40,7 +40,8 @@ on the VM, be sure to create and store the username and password so that the cor
 </p>
 <p>
 After setting up the VM copy or make note of the public ip address as it will be used to log into remote desktop. Search for remote desktop in your browser,
-  on a windows computer you can find it by opening the windows button and searching "mstsc". Login using credentials created on Azure.
+  on a windows computer you can find it by opening the windows button and searching "mstsc". Login using credentials created on Azure. Type or paste public ip address
+  where it ask for computer, when it prompts for password, use the one created in Azure.
 </p>
 <br />
 
