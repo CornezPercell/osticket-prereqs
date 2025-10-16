@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 After setting up a Microsoft Azure account and subscription, create a Windows 10 Virtual Machine with a minimum of 4 vCPUs. A username and password will be needed to log in
-on the VM, be sure to store the username and password so that the correct information is accessible, as it will be needed to log in using Remote Desktop.
+on the VM, be sure to create and store the username and password so that the correct information is accessible, as it will be needed to log in using Remote Desktop.
   
 </p>
 <br />
@@ -39,7 +39,8 @@ on the VM, be sure to store the username and password so that the correct inform
 <img src="https://github.com/CornezPercell/osticket-prereqs/blob/main/Screenshot%20(268).png" height="40%" width="40%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After setting up the VM copy or make note of the public ip address as it will be used to log into remote desktop. Search for remote desktop in your browser,
+  on a windows computer you can find it by opening the windows button and searching "mstsc". Login using credentials created on Azure.
 </p>
 <br />
 
@@ -47,6 +48,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+After successfully logging into the VM, open the web browser and go to osticket.com. You will need to download the files to install OS ticket onto the VM.
+  This picture shows all the files I used for this setup.
 <br />
