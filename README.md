@@ -46,7 +46,7 @@ After setting up the VM copy or make note of the public ip address as it will be
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Screenshot (272).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After successfully logging into the VM, open the web browser and go to osticket.com. You will need to download the files to install OS ticket onto the VM.
